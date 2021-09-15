@@ -1,0 +1,10 @@
+SHAPE,,,,,,,,,,,,,,,,,,
+Instrument,Defaults,Levels,Tuning,Pitch,PitchEnv,Reverb,ModAttack,ModDecay,ModSustain,ModRelease,AmpAttack,AmpSustain,AmpDecay,AmpRelease,FilterType,FilterCutoff,FilterEnvAmount,FilterResonance
+Air,0.499593764543533,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Avatar,0.499593764543533,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Buzz,0.499593764543533,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Chat,0.499593764543533,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Core,0.499593764543533,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Data,0.499593764543533,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Drone,0.499593764543533,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Lucid,0.499593764543533,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0

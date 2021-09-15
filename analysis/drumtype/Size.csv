@@ -1,0 +1,3 @@
+SIZE,,,,,,,,,,,,,,,,,,
+Instrument,Defaults,Levels,Tuning,Pitch,PitchEnv,Reverb,ModAttack,ModDecay,ModSustain,ModRelease,AmpAttack,AmpSustain,AmpDecay,AmpRelease,FilterType,FilterCutoff,FilterEnvAmount,FilterResonance
+Idiophonic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0

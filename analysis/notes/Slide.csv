@@ -1,0 +1,4 @@
+Instrument,Defaults,Levels,Tuning,Pitch,PitchEnv,Reverb,ModAttack,ModDecay,ModSustain,ModRelease,AmpAttack,AmpSustain,AmpDecay,AmpRelease,FilterType,FilterCutoff,FilterEnvAmount,FilterResonance
+Celli Flautando,0.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cello Creak,0.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Digisect,0.5,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0

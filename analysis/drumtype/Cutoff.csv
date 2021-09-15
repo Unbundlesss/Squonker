@@ -1,0 +1,10 @@
+CUTOFF,,,,,,,,,,,,,,,,,,
+Instrument,Defaults,Levels,Tuning,Pitch,PitchEnv,Reverb,ModAttack,ModDecay,ModSustain,ModRelease,AmpAttack,AmpSustain,AmpDecay,AmpRelease,FilterType,FilterCutoff,FilterEnvAmount,FilterResonance
+Air,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Avatar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Buzz,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Chat,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Core,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Data,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Drone,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Lucid,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0

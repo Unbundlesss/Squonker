@@ -1,0 +1,281 @@
+{
+    "interaction": "drumpads",
+    "inputMode": 0,
+    "params": {
+        "levels": {
+            "startValue": 0.75,
+            "defaultValue": 0.75,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "ampAttack": {
+            "startValue": 0.0,
+            "defaultValue": 0.0,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "ampRelease": {
+            "startValue": 0.8,
+            "defaultValue": 0.8,
+            "multipliers": [
+                0.0,
+                0.6,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "modRelease": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "filterCutoff": {
+            "startValue": 1.0,
+            "defaultValue": 1.0,
+            "multipliers": [
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "filterEnvAmount": {
+            "startValue": 1.0,
+            "defaultValue": 1.0,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0
+            ]
+        },
+        "ampHold": {
+            "startValue": 1.0,
+            "defaultValue": 1.0,
+            "multipliers": [
+                0.0,
+                0.8,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "filterResonance": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0
+            ]
+        },
+        "modAttack": {
+            "startValue": 0.0,
+            "defaultValue": 0.0,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "pitchEnv": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "pitch": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "reverb": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "tuning": {
+            "startValue": 0.0,
+            "defaultValue": 0.0,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "samples": [
+        "noise m 1kick",
+        "noise m 2kick",
+        "noise m 3kick",
+        "noise m 4zap",
+        "noise m 5snare",
+        "noise m 6snare",
+        "noise m 7tom",
+        "noise m 8tom",
+        "noise m 9hat",
+        "noise m 10hat",
+        "noise m 11hat",
+        "noise m 12zap",
+        "noise m 13clap",
+        "noise m 14clap",
+        "noise m 15tom",
+        "noise m 16zap"
+    ],
+    "tune": 0.0,
+    "loopStart": 0.8671879768371582,
+    "filterPitchAmount": 1.0,
+    "macroMappings": [
+        80,
+        1,
+        2,
+        16,
+        3,
+        4,
+        0,
+        94
+    ],
+    "macroNames": [
+        "Pitch",
+        "Length",
+        "Lowpass",
+        "Level",
+        "Bounce",
+        "Punch",
+        "Resonance",
+        "Reverb"
+    ],
+    "loopLength": 0.5976560115814209,
+    "user_id": "vonbongen",
+    "packName": "templates",
+    "triggerIcons": [
+        "Kick",
+        "Kick",
+        "Kick",
+        "Zap",
+        "Snare",
+        "Snare",
+        "MidTom",
+        "MidTom",
+        "ClosedHH",
+        "ClosedHH",
+        "ClosedHH",
+        "Zap",
+        "Clap",
+        "Clap",
+        "MidTom",
+        "Zap"
+    ],
+    "packType": "Drums",
+    "engineType": "Drums",
+    "filterType": 0,
+    "productIds": [
+        "fm.endlesss.premiumSubscription"
+    ],
+    "macroDefaults": [
+        0.5,
+        0.5,
+        1.0,
+        0.75,
+        0.5,
+        0.5,
+        0.3,
+        0.0
+    ],
+    "created": 1626958370000,
+    "icon": "drumtype",
+    "tags": [
+        "template"
+    ],
+    "app_version": 3510,
+    "author": "team-squonker",
+    "loopingMode": true,
+    "_id": "",
+    "description": "does what it says on the tin",
+    "engine": "ReaktorDrumSamplerV1",
+    "packSortOrder": 1,
+    "colour": "fff05d39",
+    "name": "Lowpass",
+    "type": "Lowpass"
+}

@@ -1,0 +1,4 @@
+Instrument,Defaults,Levels,Tuning,Pitch,PitchEnv,Reverb,ModAttack,ModDecay,ModSustain,ModRelease,AmpAttack,AmpSustain,AmpDecay,AmpRelease,FilterType,FilterCutoff,FilterEnvAmount,FilterResonance
+Keys,0.9230312705039978,0,0,0,0,0,1,0,0,0,0.08581250160932541,0,0,0,0,0,1,0
+Plucks,0.496812492609024,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-0.6357187628746033,1,0.1675937473773956
+Strings,0.496812492609024,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-0.6357187628746033,1,0.1675937473773956

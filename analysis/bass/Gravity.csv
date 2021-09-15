@@ -1,0 +1,7 @@
+GRAVITY,,,,,,,,,,,,,,,,,,
+Instrument,Defaults,Levels,Tuning,Pitch,PitchEnv,Reverb,ModAttack,ModDecay,ModSustain,ModRelease,AmpAttack,AmpSustain,AmpDecay,AmpRelease,FilterType,FilterCutoff,FilterEnvAmount,FilterResonance
+Clavi,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Dipper,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Impact,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Ting,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Tunnel,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0

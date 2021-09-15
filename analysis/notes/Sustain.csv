@@ -1,0 +1,2 @@
+Instrument,Defaults,Levels,Tuning,Pitch,PitchEnv,Reverb,ModAttack,ModDecay,ModSustain,ModRelease,AmpAttack,AmpSustain,AmpDecay,AmpRelease,FilterType,FilterCutoff,FilterEnvAmount,FilterResonance
+Lifting,0.5350781083106995,0.1953119933605194,0,0,0,0,0,0,0.4789062440395355,0.6145625114440918,0,0.6329687237739563,0,0.8180000185966492,1,0,-0.7074062824249268,0

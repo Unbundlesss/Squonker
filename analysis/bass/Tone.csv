@@ -1,0 +1,5 @@
+TONE,,,,,,,,,,,,,,,,,,
+Instrument,Defaults,Levels,Tuning,Pitch,PitchEnv,Reverb,ModAttack,ModDecay,ModSustain,ModRelease,AmpAttack,AmpSustain,AmpDecay,AmpRelease,FilterType,FilterCutoff,FilterEnvAmount,FilterResonance
+Binary,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Nova,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Stand,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0

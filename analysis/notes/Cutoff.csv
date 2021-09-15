@@ -1,0 +1,3 @@
+Instrument,Defaults,Levels,Tuning,Pitch,PitchEnv,Reverb,ModAttack,ModDecay,ModSustain,ModRelease,AmpAttack,AmpSustain,AmpDecay,AmpRelease,FilterType,FilterCutoff,FilterEnvAmount,FilterResonance
+Flare,0.3339531123638153,0,0,0,0,0,0.01178125012665987,0,0,0,0.6433125138282776,0,0,0,1,1,0.2357500046491623,0
+Smashing,0.1862968802452087,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.519281268119812,0,0

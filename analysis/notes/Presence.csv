@@ -1,0 +1,2 @@
+Instrument,Defaults,Levels,Tuning,Pitch,PitchEnv,Reverb,ModAttack,ModDecay,ModSustain,ModRelease,AmpAttack,AmpSustain,AmpDecay,AmpRelease,FilterType,FilterCutoff,FilterEnvAmount,FilterResonance
+Aprequiema,0.5180000066757202,0.4365000128746033,0,0,0,0,0,-0.157906249165535,0,0.5241249799728394,0,0,0,0,0,-0.3081250190734863,0.5690937638282776,0.6508125066757202

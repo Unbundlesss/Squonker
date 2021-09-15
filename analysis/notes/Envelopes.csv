@@ -1,0 +1,3 @@
+Instrument,Defaults,Levels,Tuning,Pitch,PitchEnv,Reverb,ModAttack,ModDecay,ModSustain,ModRelease,AmpAttack,AmpSustain,AmpDecay,AmpRelease,FilterType,FilterCutoff,FilterEnvAmount,FilterResonance
+Drift,1,0,0,0,-0.01165698282420635,0,1,0,0,0,1,0,1,1,0,0,0,0
+Reduce,0.4817812442779541,0,0,-0.002034667879343033,0.1133124902844429,0,1,0.005750000011175871,-0.0004672756185755134,0.001665037823840976,1,0,1,1,0,0,0,0

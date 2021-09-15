@@ -1,0 +1,2 @@
+Instrument,Defaults,Levels,Tuning,Pitch,PitchEnv,Reverb,ModAttack,ModDecay,ModSustain,ModRelease,AmpAttack,AmpSustain,AmpDecay,AmpRelease,FilterType,FilterCutoff,FilterEnvAmount,FilterResonance
+Flutter,0.4873749911785126,0,1,0.8403750061988831,-0.3867500126361847,0,0,0,0,0,-0.136000007390976,0,0,0,2,0,0,0

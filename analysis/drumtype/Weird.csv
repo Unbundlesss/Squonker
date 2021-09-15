@@ -1,0 +1,3 @@
+WEIRD,,,,,,,,,,,,,,,,,,
+Instrument,Defaults,Levels,Tuning,Pitch,PitchEnv,Reverb,ModAttack,ModDecay,ModSustain,ModRelease,AmpAttack,AmpSustain,AmpDecay,AmpRelease,FilterType,FilterCutoff,FilterEnvAmount,FilterResonance
+Caro Whack,0,0,-1,0,1,1,0.171562492847443,0,0,1,0,0,0,0.614281237125397,0,-0.625500023365021,0.255499988794327,0.364312499761581

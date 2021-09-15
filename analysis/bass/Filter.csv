@@ -1,0 +1,3 @@
+FILTER,,,,,,,,,,,,,,,,,,
+Instrument,Defaults,Levels,Tuning,Pitch,PitchEnv,Reverb,ModAttack,ModDecay,ModSustain,ModRelease,AmpAttack,AmpSustain,AmpDecay,AmpRelease,FilterType,FilterCutoff,FilterEnvAmount,FilterResonance
+Blip,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0.802218735218048,0.614000022411346,0.745656251907349

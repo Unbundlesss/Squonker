@@ -1,0 +1,264 @@
+{
+    "interaction": "drumpads",
+    "inputMode": 0,
+    "params": {
+        "tuning": {
+            "startValue": 0.0,
+            "defaultValue": 0.0,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "reverb": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "pitch": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "pitchEnv": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "modAttack": {
+            "startValue": 0.0,
+            "defaultValue": 0.0,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "filterResonance": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0
+            ]
+        },
+        "ampHold": {
+            "startValue": 1.0,
+            "defaultValue": 1.0,
+            "multipliers": [
+                0.0,
+                0.8,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "filterCutoff": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "filterEnvAmount": {
+            "startValue": 1.0,
+            "defaultValue": 1.0,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0
+            ]
+        },
+        "modRelease": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "ampRelease": {
+            "startValue": 0.8,
+            "defaultValue": 0.8,
+            "multipliers": [
+                0.0,
+                0.6,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "ampAttack": {
+            "startValue": 0.0,
+            "defaultValue": 0.0,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "levels": {
+            "startValue": 0.75,
+            "defaultValue": 0.75,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "samples": [],
+    "tune": 0.0,
+    "loopStart": 0.8671879768371582,
+    "filterPitchAmount": 1.0,
+    "macroMappings": [
+        80,
+        1,
+        2,
+        16,
+        3,
+        4,
+        0,
+        94
+    ],
+    "macroNames": [
+        "Pitch",
+        "Length",
+        "Highpass",
+        "Level",
+        "Bounce",
+        "Punch",
+        "Resonance",
+        "Reverb"
+    ],
+    "loopLength": 0.5976560115814209,
+    "user_id": "vonbongen",
+    "packName": "templates",
+    "triggerIcons": [
+        "Kick",
+        "Kick",
+        "Kick",
+        "Zap",
+        "Snare",
+        "Snare",
+        "MidTom",
+        "MidTom",
+        "ClosedHH",
+        "ClosedHH",
+        "ClosedHH",
+        "Zap",
+        "Clap",
+        "Clap",
+        "MidTom",
+        "Zap"
+    ],
+    "packType": "Drums",
+    "engineType": "Drums",
+    "filterType": 2,
+    "productIds": [
+        "fm.endlesss.premiumSubscription"
+    ],
+    "macroDefaults": [
+        0.5,
+        0.5,
+        0.2,
+        0.75,
+        0.5,
+        0.5,
+        0.5,
+        0.0
+    ],
+    "created": 1628359215162,
+    "icon": "drumtype",
+    "tags": [
+        "template"
+    ],
+    "app_version": 3510,
+    "author": "team-squonker",
+    "loopingMode": true,
+    "_id": "",
+    "description": "does what it says on the tin",
+    "engine": "ReaktorDrumSamplerV1",
+    "packSortOrder": 1,
+    "colour": "fff05d39",
+    "name": "Highpass",
+    "type": "Highpass"
+}

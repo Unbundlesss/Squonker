@@ -1,0 +1,291 @@
+{
+    "interaction": "notes",
+    "inputMode": 1,
+    "params": {
+        "tuning": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "reverb": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0
+            ]
+        },
+        "levels": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "ampAttack": {
+            "startValue": 0.0,
+            "defaultValue": 0.0,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "pitch": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "modDecay": {
+            "startValue": 0.7,
+            "defaultValue": 0.7,
+            "multipliers": [
+                0.0,
+                0.9,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "filterCutoff": {
+            "startValue": 0.65,
+            "defaultValue": 0.65,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1,
+                0.0,
+                0.0
+            ]
+        },
+        "filterEnvAmount": {
+            "startValue": 0.7,
+            "defaultValue": 0.7,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.7,
+                0.0,
+                0.0,
+                0.45,
+                0.0,
+                0.0
+            ]
+        },
+        "pitchEnv": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "modSustain": {
+            "startValue": 0.14,
+            "defaultValue": 0.14,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "ampSustain": {
+            "startValue": 0.5,
+            "defaultValue": 0.5,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "ampDecay": {
+            "startValue": 0.7,
+            "defaultValue": 0.7,
+            "multipliers": [
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "modAttack": {
+            "startValue": 0.0,
+            "defaultValue": 0.0,
+            "multipliers": [
+                0.0,
+                0.3,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "filterResonance": {
+            "startValue": 0.6,
+            "defaultValue": 0.6,
+            "multipliers": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.7,
+                0.5,
+                0.0,
+                0.0
+            ]
+        },
+        "modRelease": {
+            "startValue": 0.73,
+            "defaultValue": 0.73,
+            "multipliers": [
+                0.0,
+                1,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "ampRelease": {
+            "startValue": 0.7,
+            "defaultValue": 0.7,
+            "multipliers": [
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "samples": [
+        ""
+    ],
+    "tune": 0.5,
+    "loopStart": 0.5,
+    "filterPitchAmount": 0.0,
+    "macroMappings": [
+        1,
+        2,
+        3,
+        16,
+        4,
+        5,
+        115,
+        125
+    ],
+    "macroNames": [
+        "Octave",
+        "Decay",
+        "Shape",
+        "Level",
+        "Resonance",
+        "Cutoff",
+        "Reverb",
+        "Tune"
+    ],
+    "loopLength": 1,
+    "user_id": "",
+    "packName": "",
+    "triggerIcons": [],
+    "packType": "Bass",
+    "engineType": "Bass",
+    "filterType": 0,
+    "productIds": [
+        "fm.endlesss.premiumSubscription"
+    ],
+    "macroDefaults": [
+        0.3,
+        0.2,
+        0.9,
+        0.9,
+        0.0,
+        0.7,
+        0.0,
+        0.5
+    ],
+    "created": 1612180378150,
+    "icon": "bass",
+    "tags": [
+        "bass"
+    ],
+    "app_version": 3240,
+    "author": "team-squonker",
+    "loopingMode": true,
+    "_id": "e67bd493ec4511e99493784f43574c4b",
+    "description": "Another bass template with an emphasis on filters and resonance, but somehow slightly different from the other one in ways I can't remember",
+    "engine": "ReaktorNotesSamplerV1",
+    "packSortOrder": 1,
+    "colour": "ff4d9de0",
+    "name": "Lowpass",
+    "type": "Lowpass"
+}

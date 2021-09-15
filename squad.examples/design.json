@@ -1,0 +1,83 @@
+{
+    "iconmap" : [
+        { "svg" : "ElectroKick"   , "regex" : [ "EKick." ]      },
+        { "svg" : "Rim"           , "regex" : [ "Rim." ]        },
+        { "svg" : "Snare"         , "regex" : [ "Snare." ]      },
+        { "svg" : "FloorTom"      , "regex" : [ "" ]            },
+        { "svg" : "MidTom"        , "regex" : [ "Tom." ]        },
+        { "svg" : "LowTom"        , "regex" : [ "" ]            },
+        { "svg" : "Zap"           , "regex" : [ "" ]            },
+        { "svg" : "Burst"         , "regex" : [ "FX." ]         },
+        { "svg" : "Clap"          , "regex" : [ "Clap." ]       },
+        { "svg" : "Cowbell"       , "regex" : [ "" ]            },
+        { "svg" : "Crash"         , "regex" : [ "Crash." ]      },
+        { "svg" : "Shaker"        , "regex" : [ "" ]            },
+        { "svg" : "ClosedHH"      , "regex" : [ "CHat." ]       },
+        { "svg" : "OpenHH"        , "regex" : [ "OHat." ]       },
+        { "svg" : "Kick"          , "regex" : [ "Kick." ]       }
+    ],
+    "author": "ishaniii",
+    "notes":
+    [
+        {
+            "directory": "bass_hierophant",
+            "name": "Hierophant",
+            "template": "Bass2",
+            "note": "welcome to the underworld",
+            "volume_boost": 3.0,
+            "mods":
+            [
+                {
+                    "preset" : ".+",
+                    "overrides":
+                    [
+                        { "macro" : "Level", "override" : 0.85 }
+                    ]
+                }
+            ]
+        },
+        {
+            "directory": "notes_tones",
+            "name": "Tones",
+            "template": "Notes2",
+            "volume_boost": 1.0,
+            "order" : 
+            [
+                "SineHi",
+                "SquareHi",
+                "SawHi",
+                "TriHi",
+                "SineLo",
+                "SquareLo",
+                "SawLo",
+                "TriLo",
+                "White",
+                "Pink",
+                "Brown",
+                "DTMF"
+            ]
+        }
+    ],
+    "drumkits":
+    [
+        {
+            "directory": "drumkit_transient",
+            "name": "Transient",
+            "template": "trans-hp",
+            "volume_boost": 6.0,
+            "presets":
+            [
+                {
+                    "name": "Fault",
+                    "directory": "Kit1",
+                    "note": "glitchy crunchers",
+                    "overrides":
+                    [
+                        { "macro" : "level", "override" : 0.75 },
+                        { "macro" : "highpass", "override" : 0.05 }
+                    ]
+                }
+            ]
+        }
+    ]
+}

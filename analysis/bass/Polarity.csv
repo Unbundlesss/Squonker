@@ -1,0 +1,4 @@
+POLARITY,,,,,,,,,,,,,,,,,,
+Instrument,Defaults,Levels,Tuning,Pitch,PitchEnv,Reverb,ModAttack,ModDecay,ModSustain,ModRelease,AmpAttack,AmpSustain,AmpDecay,AmpRelease,FilterType,FilterCutoff,FilterEnvAmount,FilterResonance
+Gravity,0.503906011581421,0,0,0,0,0,0.671875,0.632812023162842,0,0.632812023162842,0,0,0,0,0,0,0,0
+Prey,0.503906011581421,0,0,0,0,0,0.671875,0.632812023162842,0,0.632812023162842,0,0,0,0,2,0,0,0
