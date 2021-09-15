@@ -20,7 +20,7 @@ __Squonker__ is a tool for building and installing your own custom Endlesss inst
 
 Parsing simple JSON-based _Audio Design_ files, __Squonker__ compiles your samples into lean, well-organised instrument packs, with direct injection into both (jailbroken) iOS and Studio installs for _rapid_ testing and iteration. 
 
-```json
+```json5
 {
     "author": "ishaniii",                                // it's a me
     "notes":
@@ -114,7 +114,7 @@ __Squonker__ reads in a JSON *design* file that lays out how to build your sound
 
 Check the provided `squad.examples/design.json` to see how they are structured.
 
-```json
+```json5
 {
     "author": "ishaniii",                                // it's a me
     "notes":
@@ -170,7 +170,7 @@ A note instrument is built from a single sample, usually recorded at C3 (althoug
 
 A drumkit has 16 samples per instrument. Here's what they look like in the JSON
 
-```json
+```json5
         {
             "directory": "drumkit_transient",
             "name": "Transient",
@@ -216,7 +216,7 @@ In this case, the directory name is not used; instead assume that it can be more
 
 At the top of the design JSON you might notice
 
-```json
+```json5
     "iconmap" : [
         { "svg" : "ElectroKick"   , "regex" : [ "EKick." ]      },
         { "svg" : "Rim"           , "regex" : [ "Rim." ]        },
