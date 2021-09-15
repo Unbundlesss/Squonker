@@ -97,7 +97,7 @@ Unpack a release to a directory of your choice.
 
 Run `squonker` with no arguments to see a list of all the options available. Run `squonker <cmd> --help` to see the options available for each command verb.
 
-If you want to prep your iOS device for deployment, scroll dow to the [iOS](#ios) section.
+If you want to prep your iOS device for deployment, scroll down to the [iOS](#ios) section.
 
 Build and deploy the demo pack with 
 
@@ -246,7 +246,7 @@ This provides a way to set the drum kit UI icons automatically based on filename
 
 will produce all defined soundpack instruments into the `/output` directory. If you have a lot of packs in a single design, you can also specify a single pack to compile by
 
-`squonker compile -d <root-directory-of-your-designs> -k <just-compile-this-named-pack>`
+`squonker compile -d <root-directory-of-your-designs> -p <just-compile-this-named-pack>`
 
 The `compile` command produces generated instruments, arranged by pack name, in the root `/output` folder. When deploying data to devices or local installs, __Squonker__ uses this `/output` folder as its working copy. 
 
@@ -281,7 +281,7 @@ If soundpacks were compiled with custom thumbnail images, you must run __Squonke
 
 `sudo squonker osx-deploy -p <packname>`
 
-**NOTE!** when running as root, squonker *only* deploys the images -- to avoid writing other files elsewhere with annoying root-level permissions. I recommend you run it without `sudo` once to deploy the instruments and then once to install the images. You only need to re-un it with `sudo` if you change thumbnails.
+**NOTE!** when running as root, squonker *only* deploys the images -- to avoid writing other files elsewhere with annoying root-level permissions. I recommend you run it without `sudo` once to deploy the instruments and then once to install the images. You only need to re-run it with `sudo` if you change thumbnails.
 
 <br><br>
 
@@ -353,7 +353,7 @@ Presently it uses a layer over `git` but other data synchronisation options may 
 # Endlesss Structures
 ## SoundPack 
 
-A soundpack in Endlesss - eg. `Avuncular Artefacts.pack` - is simply a zip file full of *Instrument* directories. Inside each is a JSON that defines the *Instrument* and a `/Samples` subdirectory that contains the references WAV or OGG files.
+A soundpack in Endlesss - eg. `Avuncular Artefacts.pack` - is simply a zip file full of *Instrument* directories. Inside each is a JSON that defines the *Instrument* and a `/Samples` subdirectory that contains the referenced WAV or OGG files.
 
 ```
 tromper/
