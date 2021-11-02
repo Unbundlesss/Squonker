@@ -12,7 +12,7 @@
 package main
 
 import (
-	"github.com/EndlesssTrackClub/squonker/cmd"
+	"github.com/Unbundlesss/squonker/cmd"
 )
 
 func main() {

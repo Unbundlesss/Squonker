@@ -8,7 +8,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/EndlesssTrackClub/squonker/data"
+	instrument "github.com/Unbundlesss/squonker/data"
 	"github.com/spf13/cobra"
 )
 
@@ -59,7 +59,7 @@ func runAnalysis(instrumentPath string) {
 		}
 
 		instrumentJsonPath := path.Join(instrumentPath, instDir.Name(), instDir.Name()+".json")
-		instInteraction, instIcon, err := data.GetInstrumentType(instrumentJsonPath)
+		instInteraction, instIcon, err := instrument.GetInstrumentType(instrumentJsonPath)
 
 		if err != nil {
 			sqlog.Print("             skipping : ", instDir.Name(), ": ", err)
@@ -87,7 +87,7 @@ func runPresetAnalysis(macroMap map[string]csvOutput, instrumentName, instrument
 	if err != nil {
 		return err
 	}
-	data := data.PresetTemplate{}
+	data := instrument.PresetTemplate{}
 
 	err = json.Unmarshal([]byte(file), &data)
 	if err != nil {
@@ -101,7 +101,7 @@ func runPresetAnalysis(macroMap map[string]csvOutput, instrumentName, instrument
 			continue
 		}
 
-		// differentiate in the CSV storage by the icon (eg. notes / bass / drumkit)
+		// differentiate in the CSV storage by the icon (e.g. notes / bass / drumkit)
 		macroMapName := instrumentIcon + "_" + macroName
 
 		// get index into the various multipliers[] arrays to look at

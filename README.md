@@ -84,7 +84,7 @@ For Linux, you already know what to do, I won't patronise you.
 
 ## Pre-Built Binaries
 
-__Squonker__ builds are available from the [Releases](https://github.com/EndlesssTrackClub/squonker/releases) page. Each package contains executables for Windows, OSX and Linux. 
+__Squonker__ builds are available from the [Releases](https://github.com/Unbundlesss/squonker/releases) page. Each package contains executables for Windows, OSX and Linux. 
 
 If you're a Go user, you can just `go build` and brew your own. __Squonker__ is currently built with go 1.17
 
