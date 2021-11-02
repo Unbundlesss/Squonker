@@ -1,4 +1,4 @@
-module github.com/EndlesssTrackClub/squonker
+module github.com/Unbundlesss/squonker
 
 go 1.16
 
@@ -11,7 +11,6 @@ require (
 	github.com/gtank/cryptopasta v0.0.0-20170601214702-1f550f6f2f69
 	github.com/ishani/gowebdav v0.0.0-20210731125429-213078aa18c9
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/mitchellh/gox v1.0.1 // indirect
 	github.com/peterbourgon/diskv v2.0.1+incompatible
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/viper v1.8.1

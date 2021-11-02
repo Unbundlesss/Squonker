@@ -6,7 +6,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/EndlesssTrackClub/squonker/data"
+	"github.com/Unbundlesss/squonker/data"
 	"github.com/mitchellh/go-homedir"
 	"github.com/spf13/cobra"
 )

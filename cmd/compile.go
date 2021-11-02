@@ -12,7 +12,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/EndlesssTrackClub/squonker/data"
+	"github.com/Unbundlesss/squonker/data"
 	"github.com/spf13/cobra"
 	ffmpeg "github.com/u2takey/ffmpeg-go"
 )
