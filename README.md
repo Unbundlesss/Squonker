@@ -12,6 +12,10 @@
 
 **Please note this app is unofficial, unaffiliated with Endlesss Ltd and usage of it comes with no warranty whatsoever. Please use responsibly, entirely at your own risk. It is cool and fun though.**
 
+<br> 
+
+***IMPORTANT NOTE! If you are using 1.3.x versions of Endlesss, you'll have to wait until we roll out a change to allow Squonker to patch the new soundpack system that has arrived in that revision. Sadly it will be a little less elegant but a workaruond is already tested and functioning well. Updates soon!**
+
 <br>
 
 __Squonker__ is a tool for building and installing your own custom Endlesss instruments.
