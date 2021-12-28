@@ -34,8 +34,14 @@ const (
 	iOSPathDataContainer       = "/var/mobile/Containers/Data/Application/"
 	iOSPathAppContainer        = "/var/containers/Bundle/Application/"
 	iOSPathEndlesssInstruments = "Library/Application Support/Endlesss/Presets/Instruments/"
+	iOSPathEndlesssDataRoot    = "Library/Application Support/Endlesss/"
 	iOSPathEndlesssApp         = "Endlesss.app/Assets/"
 	iOSPathEndlesssImagePack   = "Endlesss.app/Assets/Images/Packs/"
+	iOSPresetDatabaseDir       = "/production/Data/" // offset from iOSPathEndlesssDataRoot
+	iOSPresetDatabaseName      = "presets.cblite2"
+	iOSPresetDatabase_1        = "db.sqlite3"
+	iOSPresetDatabase_2        = "db.sqlite3-shm"
+	iOSPresetDatabase_3        = "db.sqlite3-wal"
 )
 const (
 	osxPathEndlesssInstruments = "~/Library/Containers/fm.endlesss.app/Data/Library/Application Support/Endlesss/Presets/Instruments/"

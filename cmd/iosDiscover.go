@@ -45,7 +45,7 @@ func doIOSDiscover() {
 		sqFatal(err)
 	}
 	for _, file := range files {
-		testPathForEndlesss := path.Join(iOSPathDataContainer, file.Name(), iOSPathEndlesssInstruments)
+		testPathForEndlesss := path.Join(iOSPathDataContainer, file.Name(), iOSPathEndlesssDataRoot)
 		fi, err := c.Stat(testPathForEndlesss)
 		if (err == nil) &&
 			(fi.IsDir()) {
