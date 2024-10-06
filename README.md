@@ -10,11 +10,7 @@
  Experimental Endlesss Soundpack Anarchy Engine            ▀  ishani | von | 2021   ███    ███
 ```
 
-**Please note this app is unofficial, unaffiliated with Endlesss Ltd and usage of it comes with no warranty whatsoever. Please use responsibly, entirely at your own risk. It is cool and fun though.**
-
-<br> 
-
-***IMPORTANT NOTE! If you are using 1.3.x versions of Endlesss, you'll have to wait until we roll out a change to allow Squonker to patch the new soundpack system that has arrived in that revision. Sadly it will be a little less elegant but a workaruond is already tested and functioning well. Updates soon!**
+**ARCHIVAL NOTICE - since Endlesss changed how presets were installed in versions beyond 1.3.x and in doint so made it significantly more annoying to patch new ones in, combined with the dissolution of the company in 2024, this tool is now considered mothballed and obsolete.**
 
 <br>
 
