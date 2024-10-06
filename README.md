@@ -10,7 +10,7 @@
  Experimental Endlesss Soundpack Anarchy Engine            ▀  ishani | von | 2021   ███    ███
 ```
 
-**ARCHIVAL NOTICE - since Endlesss changed how presets were installed in versions beyond 1.3.x and in doint so made it significantly more annoying to patch new ones in, combined with the dissolution of the company in 2024, this tool is now considered mothballed and obsolete.**
+**ARCHIVAL NOTICE - since Endlesss changed how presets were installed in versions beyond 1.3.x and in doing so made it significantly more annoying to patch new ones in, combined with the dissolution of the company in 2024, this tool is now considered mothballed and obsolete.**
 
 <br>
 
